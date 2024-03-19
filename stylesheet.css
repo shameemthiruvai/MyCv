@@ -66,7 +66,6 @@ button:focus {
   font-weight: 500;
 }
 
-/* Círculo verde encima del título */
 .title::before {
   content: "";
   position: absolute;
@@ -82,7 +81,6 @@ button:focus {
   z-index: -1;
   border-radius: 30px;
 }
-/* Línea gris debajo del título */
 .title::after {
   content: "";
   position: absolute;
@@ -275,7 +273,7 @@ main .profile {
 
 .profile-social a:hover {
   text-decoration: none;
-  color: #2eca7f;
+  color: 3468C0;
 }
 
 .profile-buttons {
